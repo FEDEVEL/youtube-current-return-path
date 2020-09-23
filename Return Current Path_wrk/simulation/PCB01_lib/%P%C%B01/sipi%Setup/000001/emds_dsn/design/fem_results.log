@@ -1,0 +1,164 @@
+fem_results_handler: E:/Github/youtube-current-return-path/Return Current Path_wrk/simulation/PCB01_lib/%P%C%B01/sipi%Setup/000001/emds_dsn/design \\.\pipe\LassIOMessagePipe_7654_10 portsolver=0
+fem_results_handler: time to create app 0.0046886
+fem_results_handler: time to connect to pipe 0.0054103
+fem_results_handler: time to initial load solution 0.005411
+fem_results_handler: time till now 0.0055409
+
+    [circuit] loading port configuration
+loaded source amplitudes: 
+	  0                                 SIG1_J1 : (1,0) V
+	  1                                 SIG2_J3 : (1,0) V
+	  2                                 SIG3_J5 : (1,0) V
+	  3                                 SIG1_J2 : (1,0) A
+	  4                                 SIG2_J4 : (1,0) A
+	  5                                 SIG3_J6 : (1,0) A
+loaded sio file E:/Github/youtube-current-return-path/Return Current Path_wrk/simulation/PCB01_lib/%P%C%B01/sipi%Setup/000001/emds_dsn/design/design.sio
+    [circuit] updated port results for <E:/Github/youtube-current-return-path/Return Current Path_wrk/simulation/PCB01_lib/%P%C%B01/sipi%Setup/000001/emds_dsn/design>
+==> command: cmdGetAvailableExcitations took 0.0581328
+==> command: cmdPortGetMeshFile took 6.94e-05
+==> command: cmdPortEvaluateSMatrix took 0.000196
+	Loading NearFieldPlugin for <E:/Github/youtube-current-return-path/Return Current Path_wrk/simulation/PCB01_lib/%P%C%B01/sipi%Setup/000001/emds_dsn/design>
+	evaluating <Jt> for <linear combination SIG1_J1 x (-0.3,5.22212e-08) + SIG1_J2 x (38.34,0.295591) + SIG2_J3 x (-0.3,3.67509e-08) + SIG2_J4 x (30.0081,0.262454) + SIG3_J5 x (-0.3,1.86265e-08) + SIG3_J6 x (22.8489,0.170991)> at 0 Hz
+	Loaded mesh level 0 : 1.72 sec
+	using fields at frequency 0 Hz for DC
+	evaluating Jt in 12336 points
+ERROR: NearFieldPluginData::evaluate_Jt called at DC
+==> command: cmdNearfieldEvaluate took 1.86519
+==> command: cmdGetUsedMaterials took 0.0188415
+==> command: cmdPortEvaluateSMatrix took 0.0002081
+	evaluating <Jt> for <linear combination SIG1_J1 x (-0.3,5.22212e-08) + SIG1_J2 x (38.34,0.295591) + SIG2_J3 x (-0.3,3.67509e-08) + SIG2_J4 x (30.0081,0.262454) + SIG3_J5 x (-0.3,1.86265e-08) + SIG3_J6 x (22.8489,0.170991)> at 0 Hz
+	evaluating Jt in 12336 points
+ERROR: NearFieldPluginData::evaluate_Jt called at DC
+==> command: cmdNearfieldEvaluate took 0.301716
+==> command: cmdPortEvaluateSMatrix took 0.0002029
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.2,9.81647e-08) + SIG1_J2 x (53.34,0.295588) + SIG2_J3 x (1.2,7.4142e-08) + SIG2_J4 x (45.0081,0.262452) + SIG3_J5 x (1.2,4.47035e-08) + SIG3_J6 x (37.8489,0.17099)> at 0 Hz
+	evaluating Jt in 12336 points
+ERROR: NearFieldPluginData::evaluate_Jt called at DC
+==> command: cmdNearfieldEvaluate took 0.308834
+==> command: cmdPortEvaluateSMatrix took 0.0001919
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.2,9.81647e-08) + SIG1_J2 x (53.34,0.295588) + SIG2_J3 x (1.2,7.4142e-08) + SIG2_J4 x (45.0081,0.262452) + SIG3_J5 x (1.2,4.47035e-08) + SIG3_J6 x (37.8489,0.17099)> at 10 Hz
+	unloaded fields for frequency 0 Hz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.305636
+==> command: cmdPortEvaluateSMatrix took 0.000191
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.2,9.81647e-08) + SIG1_J2 x (53.34,0.295588) + SIG2_J3 x (1.2,7.4142e-08) + SIG2_J4 x (45.0081,0.262452) + SIG3_J5 x (1.2,4.47035e-08) + SIG3_J6 x (37.8489,0.17099)> at 21.5443 Hz
+	unloaded fields for frequency 10 Hz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.314896
+==> command: cmdPortEvaluateSMatrix took 0.0001631
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.2,9.81647e-08) + SIG1_J2 x (53.34,0.295588) + SIG2_J3 x (1.2,7.4142e-08) + SIG2_J4 x (45.0081,0.262452) + SIG3_J5 x (1.2,4.47035e-08) + SIG3_J6 x (37.8489,0.17099)> at 46.4159 Hz
+	unloaded fields for frequency 21.5443 Hz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.311747
+==> command: cmdPortEvaluateSMatrix took 0.0002289
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.2,9.81647e-08) + SIG1_J2 x (53.34,0.295588) + SIG2_J3 x (1.2,7.4142e-08) + SIG2_J4 x (45.0081,0.262452) + SIG3_J5 x (1.2,4.47035e-08) + SIG3_J6 x (37.8489,0.17099)> at 100 Hz
+	unloaded fields for frequency 46.4159 Hz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.30487
+==> command: cmdPortEvaluateSMatrix took 0.000184
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.2,9.81647e-08) + SIG1_J2 x (53.34,0.295588) + SIG2_J3 x (1.2,7.4142e-08) + SIG2_J4 x (45.0081,0.262452) + SIG3_J5 x (1.2,4.47035e-08) + SIG3_J6 x (37.8489,0.17099)> at 215.443 Hz
+	unloaded fields for frequency 100 Hz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.309126
+==> command: cmdPortEvaluateSMatrix took 0.0002162
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.2,9.81647e-08) + SIG1_J2 x (53.34,0.295588) + SIG2_J3 x (1.2,7.4142e-08) + SIG2_J4 x (45.0081,0.262452) + SIG3_J5 x (1.2,4.47035e-08) + SIG3_J6 x (37.8489,0.17099)> at 464.159 Hz
+	unloaded fields for frequency 215.443 Hz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.306302
+==> command: cmdPortEvaluateSMatrix took 0.0001961
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.2,9.81647e-08) + SIG1_J2 x (53.34,0.295588) + SIG2_J3 x (1.2,7.4142e-08) + SIG2_J4 x (45.0081,0.262452) + SIG3_J5 x (1.2,4.47035e-08) + SIG3_J6 x (37.8489,0.17099)> at 1 kHz
+	unloaded fields for frequency 464.159 Hz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.306136
+==> command: cmdPortEvaluateSMatrix took 0.0003167
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.2,2.01562e-07) + SIG1_J2 x (53.4935,0.328434) + SIG2_J3 x (1.2,1.61563e-07) + SIG2_J4 x (45.149,0.314668) + SIG3_J5 x (1.2,8.9407e-08) + SIG3_J6 x (37.9412,0.204361)> at 2.15443 kHz
+	unloaded fields for frequency 1 kHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.307397
+==> command: cmdPortEvaluateSMatrix took 0.0001902
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.2,4.32675e-07) + SIG1_J2 x (53.6257,0.389989) + SIG2_J3 x (1.2,3.4407e-07) + SIG2_J4 x (45.3006,0.37976) + SIG3_J5 x (1.2,1.91852e-07) + SIG3_J6 x (38.0411,0.239023)> at 4.64159 kHz
+	unloaded fields for frequency 2.15443 kHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.306923
+==> command: cmdPortEvaluateSMatrix took 0.000209
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.2,9.26712e-07) + SIG1_J2 x (53.7622,0.533013) + SIG2_J3 x (1.2,7.36377e-07) + SIG2_J4 x (45.4658,0.475478) + SIG3_J5 x (1.2,4.11179e-07) + SIG3_J6 x (38.1273,0.292767)> at 10 kHz
+	unloaded fields for frequency 4.64159 kHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.302623
+==> command: cmdPortEvaluateSMatrix took 0.000198
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.2,1.98954e-06) + SIG1_J2 x (53.9205,0.825517) + SIG2_J3 x (1.2,1.57897e-06) + SIG2_J4 x (45.6272,0.644345) + SIG3_J5 x (1.2,8.80915e-07) + SIG3_J6 x (38.1943,0.438006)> at 21.5443 kHz
+	unloaded fields for frequency 10 kHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.308522
+==> command: cmdPortEvaluateSMatrix took 0.0001938
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.2,4.27561e-06) + SIG1_J2 x (54.1056,1.41237) + SIG2_J3 x (1.2,3.39011e-06) + SIG2_J4 x (45.7485,1.02336) + SIG3_J5 x (1.2,1.89163e-06) + SIG3_J6 x (38.2725,0.780356)> at 46.4159 kHz
+	unloaded fields for frequency 21.5443 kHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.314487
+==> command: cmdPortEvaluateSMatrix took 0.0001694
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.2,9.19741e-06) + SIG1_J2 x (54.3288,2.62367) + SIG2_J3 x (1.2,7.28067e-06) + SIG2_J4 x (45.8494,1.92512) + SIG3_J5 x (1.2,4.06566e-06) + SIG3_J6 x (38.3942,1.4858)> at 100 kHz
+	unloaded fields for frequency 46.4159 kHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.309251
+==> command: cmdPortEvaluateSMatrix took 0.0001782
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.2,1.9808e-05) + SIG1_J2 x (54.598,5.1384) + SIG2_J3 x (1.2,1.56569e-05) + SIG2_J4 x (46.0076,3.87551) + SIG3_J5 x (1.2,8.74735e-06) + SIG3_J6 x (38.5521,2.92311)> at 215.443 kHz
+	unloaded fields for frequency 100 kHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.310133
+==> command: cmdPortEvaluateSMatrix took 0.0003197
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.19999,4.26901e-05) + SIG1_J2 x (54.879,10.4854) + SIG2_J3 x (1.2,3.37078e-05) + SIG2_J4 x (46.2128,7.98468) + SIG3_J5 x (1.2,1.88316e-05) + SIG3_J6 x (38.7207,5.96112)> at 464.159 kHz
+	unloaded fields for frequency 215.443 kHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.302774
+==> command: cmdPortEvaluateSMatrix took 0.000177
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.19997,9.22261e-05) + SIG1_J2 x (55.2563,22.0415) + SIG2_J3 x (1.19998,7.27117e-05) + SIG2_J4 x (46.4969,16.8179) + SIG3_J5 x (1.19999,4.06097e-05) + SIG3_J6 x (38.9418,12.5141)> at 1 MHz
+	unloaded fields for frequency 464.159 kHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.31435
+==> command: cmdPortEvaluateSMatrix took 0.0003337
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.19986,0.000201564) + SIG1_J2 x (56.2913,46.9683) + SIG2_J3 x (1.19991,0.00015831) + SIG2_J4 x (47.2773,35.856) + SIG3_J5 x (1.19996,8.8312e-05) + SIG3_J6 x (39.5219,26.6439)> at 2.15443 MHz
+	unloaded fields for frequency 1 MHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.302515
+==> command: cmdPortEvaluateSMatrix took 0.0001949
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.19936,0.000461854) + SIG1_J2 x (60.4345,100.058) + SIG2_J3 x (1.1996,0.000358173) + SIG2_J4 x (50.4118,76.3681) + SIG3_J5 x (1.19979,0.00019889) + SIG3_J6 x (41.8111,56.7097)> at 4.64159 MHz
+	unloaded fields for frequency 2.15443 MHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.301052
+==> command: cmdPortEvaluateSMatrix took 0.0001675
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.19714,0.00121485) + SIG1_J2 x (75.7799,208.943) + SIG2_J3 x (1.1982,0.000908696) + SIG2_J4 x (61.9506,159.187) + SIG3_J5 x (1.19907,0.00049746) + SIG3_J6 x (50.1753,118.063)> at 10 MHz
+	unloaded fields for frequency 4.64159 MHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.311318
+==> command: cmdPortEvaluateSMatrix took 0.0002905
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.18744,0.00380472) + SIG1_J2 x (113.874,425.445) + SIG2_J3 x (1.19216,0.00267217) + SIG2_J4 x (89.6732,321.562) + SIG3_J5 x (1.19597,0.00141998) + SIG3_J6 x (69.7084,237.146)> at 21.5443 MHz
+	unloaded fields for frequency 10 MHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.304682
+==> command: cmdPortEvaluateSMatrix took 0.0002045
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.13943,0.0141736) + SIG1_J2 x (197.256,939.331) + SIG2_J3 x (1.1639,0.00877494) + SIG2_J4 x (141.238,682.815) + SIG3_J5 x (1.18207,0.00431428) + SIG3_J6 x (101.16,488.995)> at 46.4159 MHz
+	unloaded fields for frequency 21.5443 MHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.310731
+==> command: cmdPortEvaluateSMatrix took 0.0003584
+	evaluating <Jt> for <linear combination SIG1_J1 x (0.625626,0.204547) + SIG1_J2 x (1258.35,3839.95) + SIG2_J3 x (0.962734,0.0563121) + SIG2_J4 x (417.986,1993.08) + SIG3_J5 x (1.10579,0.0175595) + SIG3_J6 x (192.787,1175.35)> at 100 MHz
+	unloaded fields for frequency 46.4159 MHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.31473
+==> command: cmdPortEvaluateSMatrix took 0.0003001
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.82465,0.0217311) + SIG1_J2 x (168.662,-1017.19) + SIG2_J3 x (2.10613,0.0865668) + SIG2_J4 x (412.964,-2638.69) + SIG3_J5 x (-0.660491,2.23181) + SIG3_J6 x (11318,9892.88)> at 215.443 MHz
+	unloaded fields for frequency 100 MHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.306442
+==> command: cmdPortEvaluateSMatrix took 0.000158
+	evaluating <Jt> for <linear combination SIG1_J1 x (1.79983,-0.0168421) + SIG1_J2 x (209.544,288.56) + SIG2_J3 x (1.79393,0.0109672) + SIG2_J4 x (123.621,-669.915) + SIG3_J5 x (2.08537,0.0825293) + SIG3_J6 x (367.017,-2811.44)> at 300 MHz
+	unloaded fields for frequency 215.443 MHz
+	evaluating Jt in 12336 points
+==> command: cmdNearfieldEvaluate took 0.309904fem_results_handler: Bye!
+
+    [circuit] deleting port results for <E:/Github/youtube-current-return-path/Return Current Path_wrk/simulation/PCB01_lib/%P%C%B01/sipi%Setup/000001/emds_dsn/design>
+================================================
+
+	unloaded fields for frequency 300 MHz
+	Unloaded mesh level 0
+	Deleted NearFieldPlugin for <E:/Github/youtube-current-return-path/Return Current Path_wrk/simulation/PCB01_lib/%P%C%B01/sipi%Setup/000001/emds_dsn/design>

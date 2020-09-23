@@ -1,0 +1,14 @@
+{
+    "hash": {
+        "componentsHash": "3f393f3f5e6b4b0d32553f3f3f60183f3f3f0709",
+        "ioPortsHash": "3f393f3f5e6b4b0d32553f3f3f60183f3f3f0709",
+        "sinksHash": "483f3f3f0c433f3f3f263f3f3f4c5e2b3f3f6b3f",
+        "thermalSourcesHash": "3f393f3f5e6b4b0d32553f3f3f60183f3f3f0709",
+        "vrmsHash": "3d4a3f0f48383f78210e3f7b603f413f3f3f3f"
+    },
+    "portHash": {
+        "sinksPortHash": "713f483d3f203f5f1e3f3f113f22443f3f3f65",
+        "vrmsPortHash": "3f3f5a5b193f5b463f4c2f3f66073f354b3f793f"
+    },
+    "version": 1
+}

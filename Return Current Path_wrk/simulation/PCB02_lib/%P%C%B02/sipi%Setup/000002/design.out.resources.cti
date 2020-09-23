@@ -1,0 +1,135 @@
+CITIFILE A.01.01
+# File generated on Tue Sep 22 14:07:31 2020
+
+NAME Resources LogFile
+
+VAR Index MAG 17
+
+DATA DeltaTime RI
+DATA DeltaMemory RI
+DATA Time RI
+DATA Memory RI
+
+VAR_LIST_BEGIN
+  0
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+  10
+  11
+  12
+  13
+  14
+  15
+  16
+VAR_LIST_END
+
+# DeltaTime [s]
+BEGIN
+  0.001097, 0.0
+  0.0609411, 0.0
+  0.0009147, 0.0
+  4.24e-05, 0.0
+  0.0024357, 0.0
+  0.0122781, 0.0
+  0.0356968, 0.0
+  0.0002839, 0.0
+  0.0223133, 0.0
+  0.1551061, 0.0
+  0.0340904, 0.0
+  0.2150444, 0.0
+  0.000578, 0.0
+  9.669999999999999e-05, 0.0
+  0.0143435, 0.0
+  0.0358814, 0.0
+  0.0180455, 0.0
+END
+
+# DeltaMemory [MB]
+BEGIN
+  0.5625, 0.0
+  5.9375, 0.0
+  0.15625, 0.0
+  0.0078125, 0.0
+  0.26953125, 0.0
+  2.44921875, 0.0
+  2.93359375, 0.0
+  0.22265625, 0.0
+  1.5390625, 0.0
+  6.7421875, 0.0
+  0.0078125, 0.0
+  0, 0.0
+  0, 0.0
+  0, 0.0
+  0, 0.0
+  2.1640625, 0.0
+  0, 0.0
+END
+
+# Time [s]
+BEGIN
+  0.001097, 0.0
+  0.0620381, 0.0
+  0.0629528, 0.0
+  0.0629952, 0.0
+  0.0654309, 0.0
+  0.077709, 0.0
+  0.1134058, 0.0
+  0.1136897, 0.0
+  0.136003, 0.0
+  0.2911091, 0.0
+  0.3251995, 0.0
+  0.5402439, 0.0
+  0.5408219, 0.0
+  0.5409185999999999, 0.0
+  0.5552620999999999, 0.0
+  0.5911434999999998, 0.0
+  0.6091889999999999, 0.0
+END
+
+# Memory [MB]
+BEGIN
+  0.5625, 0.0
+  6.5, 0.0
+  6.65625, 0.0
+  6.6640625, 0.0
+  6.93359375, 0.0
+  9.3828125, 0.0
+  12.31640625, 0.0
+  12.5390625, 0.0
+  14.078125, 0.0
+  20.8203125, 0.0
+  20.828125, 0.0
+  20.828125, 0.0
+  20.828125, 0.0
+  20.828125, 0.0
+  20.828125, 0.0
+  22.9921875, 0.0
+  22.9921875, 0.0
+END
+
+# DeltaTag
+# Index[0] Creating the options
+# Index[1] Creating the layout
+# Index[2] Creating the stimulus
+# Index[3] Extracting the connectivity
+# Index[4] Extracting the substrate
+# Index[5] Creating electric network
+# Index[6] Loading the electric network
+# Index[7] Creating the electric matrix
+# Index[8] Loading the electric matrix
+# Index[9] Solving the electric matrix
+# Index[10] Storing the voltage data
+# Index[11] Output electric data to file
+# Index[12] Loading the electric network
+# Index[13] Creating the electric matrix
+# Index[14] Loading the electric matrix
+# Index[15] Solving the electric matrix
+# Index[16] Output electric model to file
+

@@ -1,0 +1,28 @@
+SIMULATION SUMMARY
+------------------
+EMDS version             : unknown
+Operating system         : win32_64
+Machine                  : DESKTOP-ABQCKT3
+Date                     : Tue Sep 22 10:30:32 2020
+
+Total time               :      76.70 sec
+
+Adaptive phase: 
+  refinement steps       : 1
+  time                   :       0.01 sec  (  0.01 %)
+
+Solve phase:
+  time                   :      71.81 sec  ( 93.62 %)
+
+Timing per subtask:
+  solve2d                :       0.00 sec  (  0.00 %)
+  mesh_ops               :       0.00 sec  (  0.00 %)
+  solve3d                :      71.80 sec  ( 93.61 %)
+  mesh2d                 :       0.00 sec  (  0.00 %)
+  mesh                   :       0.00 sec  (  0.00 %)
+  fem_vmesh              :       2.02 sec  (  2.63 %)
+  setup                  :       0.09 sec  (  0.12 %)
+  farfield               :       0.00 sec  (  0.00 %)
+  fileIO                 :       0.00 sec  (  0.00 %)
+  adapt                  :       0.00 sec  (  0.00 %)
+  fem_vmesh_2            :       0.00 sec  (  0.00 %)

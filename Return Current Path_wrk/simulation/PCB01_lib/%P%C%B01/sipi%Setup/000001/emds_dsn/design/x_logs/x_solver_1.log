@@ -1,0 +1,1037 @@
+2020-09-22T08:29:19.495024  x_socket connecting
+2020-09-22T08:29:19.504026  x_socket connecting
+2020-09-22T08:29:19.505020 x_socket: {"status": "ok", "data": {"status": "noop"}}
+2020-09-22T08:29:19.762573 x_socket: {"status": "ok", "data": {"status": "noop"}}
+2020-09-22T08:29:20.027488 x_socket: {"status": "ok", "data": {"status": "started", "type": "fg_determine_setup_data", "args": {"Igeo": "/../../Run0001/geometry.input", "lvldir": "level1", "Icalc": "/../../Run0001/project.input", "Iovm": "/level1/design.ovm"}, "jobId": "0", "processed": 0, "workerId": "1", "data": []}}
+2020-09-22T08:29:20.027488 x_mode awaitExistence for: E:/Github/youtube-current-return-path/Return Current Path_wrk/simulation/PCB01_lib/%P%C%B01/sipi%Setup/000001/emds_dsn/design/level1/design.ovm
+2020-09-22T08:29:20.027488 x_mode awaitExistence end.
+2020-09-22T08:29:20.027488 x_mode awaitExistence for: E:/Github/youtube-current-return-path/Return Current Path_wrk/simulation/PCB01_lib/%P%C%B01/sipi%Setup/000001/Run0001/project.input
+2020-09-22T08:29:20.027488 x_mode awaitExistence end.
+2020-09-22T08:29:20.027488 x_mode awaitExistence for: E:/Github/youtube-current-return-path/Return Current Path_wrk/simulation/PCB01_lib/%P%C%B01/sipi%Setup/000001/Run0001/geometry.input
+2020-09-22T08:29:20.028483 x_mode awaitExistence end.
+2020-09-22T08:29:20.028483 x_mode awaitExistence for: E:/Github/youtube-current-return-path/Return Current Path_wrk/simulation/PCB01_lib/%P%C%B01/sipi%Setup/000001/emds_dsn/design/options.xml
+2020-09-22T08:29:20.028483 x_mode awaitExistence end.
+2020-09-22T08:29:20.028483 x_mode awaitExistence for: E:/Github/youtube-current-return-path/Return Current Path_wrk/simulation/PCB01_lib/%P%C%B01/sipi%Setup/000001/emds_dsn/design/status.sqlite
+2020-09-22T08:29:20.028483 x_mode awaitExistence end.
+2020-09-22T08:29:20.028483 x_mode awaitExistence for: E:/Github/youtube-current-return-path/Return Current Path_wrk/simulation/PCB01_lib/%P%C%B01/sipi%Setup/000001/emds_dsn/design/results.sqlite
+2020-09-22T08:29:20.028483 x_mode awaitExistence end.
+2020-09-22T08:29:23.391775 x_socket: {"status": "ok", "data": {"status": "noop"}}
+2020-09-22T08:29:23.653685 x_socket: {"status": "ok", "data": {"status": "started", "type": "determine_cutoff_intervals", "args": {"Icalc": "/../../Run0001/project.input", "minF": "0.000000000000000", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input", "maxF": "300000000.000000000000000"}, "jobId": "1", "processed": 0, "workerId": "1", "data": []}}
+2020-09-22T08:29:23.654690 x_socket: {"status": "ok", "data": {"status": "noop"}}
+2020-09-22T08:29:23.915369 x_socket: {"status": "ok", "data": {"status": "noop"}}
+2020-09-22T08:29:24.181283 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_1000.0", "iterative_order": "2", "Fsolve": "1000.000000000000000", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "2", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 62
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 66
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 71
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+ 1. Frequency: 1 kHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:16.2    Elapsed time: 00:00:08.8    Memory: 690.301 Mbyte 
+2020-09-22T08:29:29.181502 x_socket: {"status": "ok", "data": {"status": "noop"}}
+2020-09-22T08:29:29.441421 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_2154.43469003", "iterative_order": "2", "Fsolve": "2154.434690031884656", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "3", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 62
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 66
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 71
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+ 2. Frequency: 2.15443 kHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:08.1    Elapsed time: 00:00:03.8    Memory: 714.023 Mbyte 
+2020-09-22T08:29:32.861190 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_4641.58883361", "iterative_order": "2", "Fsolve": "4641.588833612780945", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "4", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 62
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 66
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+ 3. Frequency: 4.64159 kHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:07.8    Elapsed time: 00:00:03.7    Memory: 715.098 Mbyte 
+2020-09-22T08:29:36.661148 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_10000.0", "iterative_order": "2", "Fsolve": "10000.000000000000000", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "5", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 62
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 66
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 71
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+ 4. Frequency: 10 kHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:08.1    Elapsed time: 00:00:03.7    Memory: 715.785 Mbyte 
+2020-09-22T08:29:40.347489 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_21544.3469003", "iterative_order": "2", "Fsolve": "21544.346900318836560", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "6", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 62
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+ 5. Frequency: 21.5443 kHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:08.1    Elapsed time: 00:00:03.7    Memory: 715.820 Mbyte 
+2020-09-22T08:29:44.084532 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_46415.8883361", "iterative_order": "2", "Fsolve": "46415.888336127791263", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "7", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 62
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 66
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+ 6. Frequency: 46.4159 kHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:08.3    Elapsed time: 00:00:03.8    Memory: 715.820 Mbyte 
+2020-09-22T08:29:47.869156 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_100000.0", "iterative_order": "2", "Fsolve": "100000.000000000014552", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "8", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 62
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+ 7. Frequency: 100 kHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:08.8    Elapsed time: 00:00:03.8    Memory: 715.820 Mbyte 
+2020-09-22T08:29:51.603470 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_215443.469003", "iterative_order": "2", "Fsolve": "215443.469003188423812", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "9", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 66
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+ 8. Frequency: 215.443 kHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:07.5    Elapsed time: 00:00:03.5    Memory: 715.848 Mbyte 
+2020-09-22T08:29:55.101181 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_464158.883361", "iterative_order": "2", "Fsolve": "464158.883361278043594", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "10", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 71
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+ 9. Frequency: 464.159 kHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:08.3    Elapsed time: 00:00:03.5    Memory: 715.863 Mbyte 
+2020-09-22T08:29:58.592626 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_1000000.0", "iterative_order": "2", "Fsolve": "1000000.000000000349246", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "11", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 62
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 66
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 71
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+10. Frequency: 1 MHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:08.0    Elapsed time: 00:00:03.6    Memory: 715.863 Mbyte 
+2020-09-22T08:30:02.231298 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_2154434.69003", "iterative_order": "2", "Fsolve": "2154434.690031884703785", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "12", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 62
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 66
+PROGRESS 67
+PROGRESS 68
+PROGRESS 70
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+11. Frequency: 2.15443 MHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:08.2    Elapsed time: 00:00:03.5    Memory: 715.863 Mbyte 
+2020-09-22T08:30:05.749816 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_4641588.83361", "iterative_order": "2", "Fsolve": "4641588.833612781018019", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "13", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 62
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 66
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+12. Frequency: 4.64159 MHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:08.2    Elapsed time: 00:00:03.5    Memory: 715.863 Mbyte 
+2020-09-22T08:30:09.240046 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_10000000.0", "iterative_order": "2", "Fsolve": "10000000.000000005587935", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "14", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 62
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 66
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 71
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+13. Frequency: 10 MHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:08.0    Elapsed time: 00:00:03.6    Memory: 715.863 Mbyte 
+2020-09-22T08:30:12.839890 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_21544346.9003", "iterative_order": "2", "Fsolve": "21544346.900318849831820", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "15", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 62
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 66
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+14. Frequency: 21.5443 MHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:08.2    Elapsed time: 00:00:03.6    Memory: 715.891 Mbyte 
+2020-09-22T08:30:16.455481 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_46415888.3361", "iterative_order": "2", "Fsolve": "46415888.336127817630768", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "16", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 66
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 71
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+15. Frequency: 46.4159 MHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:08.5    Elapsed time: 00:00:03.6    Memory: 715.891 Mbyte 
+2020-09-22T08:30:20.013337 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_100000000.0", "iterative_order": "2", "Fsolve": "100000000.000000059604645", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "17", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 62
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 66
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 71
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+16. Frequency: 100 MHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:07.9    Elapsed time: 00:00:03.5    Memory: 715.891 Mbyte 
+2020-09-22T08:30:23.463521 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_215443469.003", "iterative_order": "2", "Fsolve": "215443469.003188520669937", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "18", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 62
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 66
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+17. Frequency: 215.443 MHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:08.0    Elapsed time: 00:00:03.5    Memory: 715.891 Mbyte 
+2020-09-22T08:30:26.936399 x_socket: {"status": "ok", "data": {"status": "started", "type": "solve", "args": {"Icalc": "/../../Run0001/project.input", "simdir": "f_300000000.0", "iterative_order": "2", "Fsolve": "300000000.000000000000000", "lvldir": "level1", "Iovm": "/level1/design.ovm", "Igeo": "/../../Run0001/geometry.input"}, "jobId": "19", "processed": 0, "workerId": "1", "data": []}}
+PROGRESS 26
+PROGRESS 27
+PROGRESS 28
+PROGRESS 29
+PROGRESS 30
+PROGRESS 31
+PROGRESS 32
+PROGRESS 33
+PROGRESS 34
+PROGRESS 35
+PROGRESS 36
+PROGRESS 37
+PROGRESS 38
+PROGRESS 39
+PROGRESS 40
+PROGRESS 41
+PROGRESS 42
+PROGRESS 43
+PROGRESS 44
+PROGRESS 45
+PROGRESS 46
+PROGRESS 47
+PROGRESS 48
+PROGRESS 49
+PROGRESS 50
+PROGRESS 51
+PROGRESS 52
+PROGRESS 53
+PROGRESS 54
+PROGRESS 55
+PROGRESS 56
+PROGRESS 57
+PROGRESS 58
+PROGRESS 59
+PROGRESS 60
+PROGRESS 61
+PROGRESS 62
+PROGRESS 63
+PROGRESS 64
+PROGRESS 65
+PROGRESS 66
+PROGRESS 67
+PROGRESS 68
+PROGRESS 69
+PROGRESS 70
+PROGRESS 72
+PROGRESS 73
+PROGRESS 74
+PROGRESS 75
+PROGRESS 90
+PROGRESS 100
+
+18. Frequency: 300 MHz      Unknowns:  120839
+    Solver:  Direct threaded 64-bit
+    CPU time: 00:00:07.4    Elapsed time: 00:00:03.5    Memory: 715.891 Mbyte 
+2020-09-22T08:30:30.497259 x_socket: {"status": "ok", "data": {"status": "noop"}}
+2020-09-22T08:30:30.753840 x_socket: {"status": "ok", "data": {"status": "noop"}}
+2020-09-22T08:30:31.017882 x_socket: {"status": "ok", "data": {"status": "noop"}}
+2020-09-22T08:30:31.283430 x_socket: {"status": "ok", "data": {"status": "noop"}}
+2020-09-22T08:30:31.547693 x_socket: {"status": "ok", "data": {"status": "noop"}}
+2020-09-22T08:30:31.810395 x_socket: {"status": "ok", "data": {"status": "exit"}}

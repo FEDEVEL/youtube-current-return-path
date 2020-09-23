@@ -1,0 +1,11 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+DEFINE Return#20Current#20Path_lib Return${__SPACE}Current${__SPACE}Path_lib
+ASSIGN Return#20Current#20Path_lib libMode shared
+DEFINE PCB01_lib PCB01_lib
+ASSIGN PCB01_lib libMode shared
+DEFINE PCB011_lib PCB011_lib
+ASSIGN PCB011_lib libMode shared
+DEFINE PCB012_lib PCB012_lib
+ASSIGN PCB012_lib libMode shared
+DEFINE PCB02_lib PCB02_lib
+ASSIGN PCB02_lib libMode shared

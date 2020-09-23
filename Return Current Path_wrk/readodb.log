@@ -1,0 +1,21 @@
+Tue Sep 22 10:56:13 2020
+Reading ODB file "E:/Github/youtube-current-return-path/Current Return Path/Project Outputs for Current Return Path/ODB/PCB02.zip".
+
+Warnings occurred during ODB file load:
+
+File not found at : E:/Github/youtube-current-return-path/Current Return Path/Project Outputs for Current Return Path/ODB\PCB02\odb\steps\pcb\layers\comp_+_bot\components
+File not found at : E:/Github/youtube-current-return-path/Current Return Path/Project Outputs for Current Return Path/ODB\PCB02\odb\steps\pcb\layers\comp_+_bot\components
+File not found at : E:/Github/youtube-current-return-path/Current Return Path/Project Outputs for Current Return Path/ODB\PCB02\odb\steps\pcb\layers\comp_+_bot\components
+
+*** NOTE ABOUT SUBSTRATE ! *******************************************
+
+Substrate file 'PCB02.stack' and materials file 'materials.matdb'
+are created at E:/Github/youtube-current-return-path/Return Current Path_wrk/PCB02_lib.
+
+Layers of type DOCUMENT are not added in layer stackup.
+Substrate information such as layer thickness and dielectric value has been set
+to default values. This can be edited in 
+Substrate Editor (Technology > Material Definitions...).
+**********************************************************************
+
+Import Complete

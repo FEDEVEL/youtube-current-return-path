@@ -1,0 +1,45 @@
+StiFile 1
+# File generated on Tue Sep 22 10:50:41 2020
+
+Electric 1:
+  name: SIG1_J1
+  voltage: 1.49994
+  current: -3
+  pluspin: 1  voltage: 1.49994  current: -3  name: J1.1
+  minpin: 2  voltage: 3e-05  current: 3  name: J1.2
+
+Electric 2:
+  name: SIG2_J3
+  voltage: 1.49991
+  current: -3
+  pluspin: 5  voltage: 1.50018  current: -3  name: J3.1
+  minpin: 6  voltage: 0.000272767  current: 3  name: J3.2
+
+Electric 3:
+  name: SIG3_J5
+  voltage: 1.49991
+  current: -3
+  pluspin: 9  voltage: 1.50082  current: -3  name: J5.1
+  minpin: 10  voltage: 0.000905747  current: 3  name: J5.2
+
+Electric 4:
+  name: SIG1_J2
+  voltage: -2.27588
+  current: 3
+  pluspin: 3  voltage: -2.2618  current: 3  name: J2.1
+  minpin: 4  voltage: 0.0140795  current: -3  name: J2.2
+
+Electric 5:
+  name: SIG2_J4
+  voltage: -1.25719
+  current: 3
+  pluspin: 7  voltage: -1.24348  current: 3  name: J4.1
+  minpin: 8  voltage: 0.0137144  current: -3  name: J4.2
+
+Electric 6:
+  name: SIG3_J6
+  voltage: -0.588146
+  current: 3
+  pluspin: 11  voltage: -0.574892  current: 3  name: J6.1
+  minpin: 12  voltage: 0.0132541  current: -3  name: J6.2
+

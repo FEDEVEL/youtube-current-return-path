@@ -1,0 +1,49 @@
+Generating Mesh	1.58556
+Generating Mesh\Applying surface boundary conditions 	0.0016775
+Generating Mesh\Applying surface boundary conditions \BuildSignalKdTree	0.0014882
+Generating Mesh\Assigning Materials 	0.0014621
+Generating Mesh\Assigning cell attributes 	0.0011167
+Generating Mesh\Cell based recovery 	2.1e-06
+Generating Mesh\Computing Aabb 	5.91e-05
+Generating Mesh\Creating inputsegments	0.0002924
+Generating Mesh\Extend Mesh XYZ Prism Padding, XY Geometry	0.209114
+Generating Mesh\Filling 3D structures	0.0047366
+Generating Mesh\Filling 3D structures\Extending signal laterally	0.0001881
+Generating Mesh\Filling 3D structures\Recovering surface attributes 	0.000617
+Generating Mesh\Filtering points close to existing mesh	0.0542437
+Generating Mesh\Filtering points close to existing mesh\filterPointsTooCloseToLineSegments	0.0542386
+Generating Mesh\Filtering points close to existing mesh\filterPointsTooCloseToLineSegments\building capsuletree	0.0513782
+Generating Mesh\Filtering points close to existing mesh\filterPointsTooCloseToLineSegments\querying capsuletree	0.002851
+Generating Mesh\Generating Boundary Conditions on Bounding Box	0.0103135
+Generating Mesh\Generating CELL signatures	0.000279
+Generating Mesh\Generating background lattice	0.0111499
+Generating Mesh\Generating background lattice\Filtering way too close points	0.0026693
+Generating Mesh\Generating surface mesh 	0.108484
+Generating Mesh\Generating surface mesh \Checking surface mesh consistency	0.0024608
+Generating Mesh\Generating surface mesh \Computing Aabbs	0.0001328
+Generating Mesh\Generating surface mesh \Convert Global Mesh into Local Meshes	0.0073109
+Generating Mesh\Generating surface mesh \Convert Global Mesh into Local Meshes\Stabilizing mesh	7.02e-05
+Generating Mesh\Generating tet mesh 	0.379613
+Generating Mesh\Healing input 	0.0001501
+Generating Mesh\Locating pins on layers	0.0005984
+Generating Mesh\Reading Design 	0.0206494
+Generating Mesh\Recovering cell attributes 	0.0093588
+Generating Mesh\Recovering surface attributes	0.113205
+Generating Mesh\Recovering surface attributes\Extending signal 	0.0468672
+Generating Mesh\Recovering topology 	0.250039
+Generating Mesh\Recovering topology \convert tetgen to ovm	0.249871
+Generating Mesh\Refinining Surfaces	0.129765
+Generating Mesh\Refinining Surfaces\Meshing surfaces 	0.129761
+Generating Mesh\Refinining Surfaces\Meshing surfaces \Refinining Boundary edges	0.0677759
+Generating Mesh\Refinining Surfaces\Meshing surfaces \Refinining Boundary edges\Create Grading function	7.4e-06
+Generating Mesh\Relocating Pins after 3d meshing	2.03e-05
+Generating Mesh\Relocating meshless vias	0.0013141
+Generating Mesh\Relocating pins on layers before 3d meshing	1.81e-05
+Generating Mesh\Remapping cell attributes 	7.9e-06
+Generating Mesh\Replacing Vias By Meshless Vias	0.001384
+Generating Mesh\Replacing multi pins ports	2.16e-05
+Generating Mesh\Updating Calcbridge file	0.0088712
+Generating Mesh\Verifying mapping cell attributes 	3.1e-06
+Generating Mesh\Writing BINARY vol mesh file 	0.216743
+Shutting down modeling environment	0.0008199
+Starting modeling environment	0.0053998
