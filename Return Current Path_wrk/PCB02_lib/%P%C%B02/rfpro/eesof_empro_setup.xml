@@ -1,0 +1,16 @@
+<eesof_empro_setup>
+ <version>
+  <actual>3</actual>
+  <minimum>2</minimum>
+ </version>
+ <tool>rfpro</tool>
+ <layout>
+  <lib>PCB02_lib</lib>
+  <cell>PCB02</cell>
+  <view>layout</view>
+ </layout>
+ <substrate>
+  <lib>PCB02_lib</lib>
+  <name>PCB02</name>
+ </substrate>
+</eesof_empro_setup>
